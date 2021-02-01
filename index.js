@@ -1,1 +1,4 @@
-2 + 2
+var number = 20
+function add5() {
+  number+=5
+}
