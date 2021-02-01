@@ -34,6 +34,6 @@ function multiply(a, b) {
 console.log(multiply(a, b));
 
 function divide(a, b) {
-  return 10 / 5
+  return a / b
 }
 console.log(divide(a, b));
