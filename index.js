@@ -47,3 +47,6 @@ function decrement(n) {
   return n-= 1
 }
 console.log(decrement(n));
+
+function makeInt('n', 10)  {}
+console.log(makeInt('n', 10));
