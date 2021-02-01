@@ -1,4 +1,2 @@
-function add() {
-number =+5
-}
+function add() 
 console.log(add());
