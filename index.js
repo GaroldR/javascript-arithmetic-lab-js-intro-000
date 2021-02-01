@@ -37,3 +37,8 @@ function divide(a, b) {
   return a / b
 }
 console.log(divide(a, b));
+
+function increment(n) {
+  return n++
+}
+console.log(increment(n));
