@@ -26,7 +26,7 @@ console.log(add(a, b));
 function subtract(a, b) {
   return a - b
 }
-console.log(a, b);
+console.log(subtract(a, b));
 
 function multipy(a, b) {
   return a * b
