@@ -17,3 +17,9 @@ function divide() {
   10 / 5
 }
 console.log(divide());
+
+function add(a, b) {
+  a=2
+  b=3
+}
+console.log(add(a,b));
