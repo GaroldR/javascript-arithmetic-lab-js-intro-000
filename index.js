@@ -19,6 +19,7 @@ function divide() {
 console.log(divide());
 
 function add(a, b) {
-3+3
+a=2;
+b=3;
 }
 console.log(add(a,b));
