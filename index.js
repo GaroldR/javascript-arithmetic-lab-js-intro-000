@@ -19,6 +19,6 @@ function divide() {
 console.log(divide());
 
 function add(a, b) {
-a+b
+return a + b
 }
-console.log('add(a, b)');
+console.log(add(a, b));
