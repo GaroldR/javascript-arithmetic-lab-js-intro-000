@@ -1,4 +1,2 @@
-function add() {
-2+2
-}
-console.log(add());
+function add(2+2)
+console.log(add);
