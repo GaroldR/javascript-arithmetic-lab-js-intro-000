@@ -32,3 +32,8 @@ function multiply(a, b) {
   return a * b
 }
 console.log(multiply(a, b));
+
+function divide(a, b) {
+  return 10 / 5
+}
+console.log(divide(a, b););
