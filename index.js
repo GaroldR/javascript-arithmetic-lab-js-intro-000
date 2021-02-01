@@ -49,6 +49,6 @@ function decrement(n) {
 console.log(decrement(n));
 
 function makeInt(n)  {
-  return 'n', 10
+  return 'n'
 }
 console.log(makeInt(n));
