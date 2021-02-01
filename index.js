@@ -13,7 +13,7 @@ function multiply() {
 }
 console.log(multiply());
 
-function devide() {
+function divide() {
   10 / 5
 }
-console.log(devide());
+console.log(divide());
