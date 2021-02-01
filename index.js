@@ -58,4 +58,3 @@ function makeInt(n)  {
   return 'n'
 }
 console.log(makeInt(n));
-
