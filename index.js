@@ -39,6 +39,7 @@ function divide(a, b) {
 console.log(divide(a, b));
 
 function increment(n) {
+  n = 5
   return n++
 }
 console.log(increment(n));
