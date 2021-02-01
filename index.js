@@ -31,4 +31,4 @@ console.log(a, b);
 function multipy(a, b) {
   return a * b
 }
-console.log(multiply (a, b));
+console.log(multiply(a, b));
