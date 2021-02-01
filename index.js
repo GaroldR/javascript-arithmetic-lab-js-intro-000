@@ -39,7 +39,6 @@ function divide(a, b) {
 console.log(divide(a, b));
 
 function increment(n) {
-  n = 488
-  return n++
+  return n--
 }
 console.log(increment(n));
