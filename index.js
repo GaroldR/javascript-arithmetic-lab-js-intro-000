@@ -42,7 +42,8 @@ function increment(n) {
   return n += 1
 }
 console.log(increment(n));
+
 function decrement(n) {
   return n-= 1
 }
-console.log(increment(n));
+console.log(decrement(n));
