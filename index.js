@@ -39,6 +39,6 @@ function divide(a, b) {
 console.log(divide(a, b));
 
 function increment(n) {
-  return n--
+  return n += 1
 }
 console.log(increment(n));
