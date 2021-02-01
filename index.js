@@ -1,5 +1,5 @@
 number = 20
-function add5() {
+function add() {
 number =+5
 }
-console.log(add5());
+console.log(add());
