@@ -12,3 +12,8 @@ function multiply() {
   2*3
 }
 console.log(multiply());
+
+function devide() {
+  10 / 5
+}
+console.log(devide());
